@@ -1,7 +1,3 @@
----
-layout: home
-title: Portfolio
----
 
 # Claudia Gaspar — Data & AI Portfolio
 
