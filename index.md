@@ -1,5 +1,5 @@
 
-# Claudia Gaspar — Data & AI Portfolio
+# Claudia Gaspar — Business & Data Portfolio
 
 Welcome to my portfolio!  
 Below are some of my featured analytics and machine learning projects developed in Python.
